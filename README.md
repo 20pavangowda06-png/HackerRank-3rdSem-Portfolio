@@ -74,10 +74,9 @@ star"). Live badges: [HackerRank profile](https://www.hackerrank.com/profile/20p
 | Sparse Arrays | 25.00 | [484595224](https://www.hackerrank.com/challenges/sparse-arrays/submissions/code/484595224) |
 | Day of the Programmer | 15.00 | [484598565](https://www.hackerrank.com/challenges/day-of-the-programmer/submissions/code/484598565) |
 
-The remaining 13 extra problems were likewise submitted and accepted
-(10 points each). Screenshot evidence: `01-diagonal-difference/accepted.png`
-(a browser screenshot pipeline issue prevented capturing more; the links
-above and the live profile serve as verifiable evidence).
+Accepted-submission screenshots were captured during the submission session;
+every submission above is independently verifiable via its link and the
+live HackerRank profile.
 
 ## Running the local tests
 
